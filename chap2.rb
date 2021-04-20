@@ -9,3 +9,4 @@ describe 'should be able to login' do
   it { should have_selector('h1', text: 'Welcome')}
 end
 
+#chap2

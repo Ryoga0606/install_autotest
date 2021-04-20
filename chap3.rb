@@ -46,3 +46,5 @@ describe 'When creating a new user' do
     it { should have_selector('.alert-account') }
   end
 end
+#chap3
+
